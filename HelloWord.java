@@ -6,5 +6,6 @@ class HelloWorld {
  	feature1-1
  	feature1-2
  	add something
+ 	add something2
  }
 }
