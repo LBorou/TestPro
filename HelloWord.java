@@ -8,7 +8,9 @@ class HelloWorld {
  	add something
  	add something2
  	f modify
+ 	modify after rebase
  }
 	
     release done
+	modify
 }
