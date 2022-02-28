@@ -9,3 +9,5 @@ class HelloWorld {
 	
     release done
 }
+
+merge Test
