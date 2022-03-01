@@ -11,3 +11,4 @@ class HelloWorld {
 }
 
 merge Test
+merge Test

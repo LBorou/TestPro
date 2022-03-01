@@ -1,4 +1,6 @@
 test
+<<<<<<< HEAD
 
 
 update after master update
+something updated from master
